@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/bin/Debug/net6.0/Example_poisk_koordinat3D
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/bin/Debug/net6.0/Example_poisk_koordinat3D.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/bin/Debug/net6.0/Example_poisk_koordinat3D.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/bin/Debug/net6.0/Example_poisk_koordinat3D.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/bin/Debug/net6.0/Example_poisk_koordinat3D.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/refint/Example_poisk_koordinat3D.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/Example_poisk_koordinat3D.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_poisk_koordinat3D/obj/Debug/net6.0/ref/Example_poisk_koordinat3D.dll
