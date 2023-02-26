@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/bin/Debug/net6.0/Example_TableCubes
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/bin/Debug/net6.0/Example_TableCubes.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/bin/Debug/net6.0/Example_TableCubes.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/bin/Debug/net6.0/Example_TableCubes.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/bin/Debug/net6.0/Example_TableCubes.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/refint/Example_TableCubes.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/Example_TableCubes.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_TableCubes/obj/Debug/net6.0/ref/Example_TableCubes.dll
