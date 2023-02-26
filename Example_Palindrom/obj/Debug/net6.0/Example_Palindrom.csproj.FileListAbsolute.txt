@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/bin/Debug/net6.0/Example_Palindrom
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/bin/Debug/net6.0/Example_Palindrom.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/bin/Debug/net6.0/Example_Palindrom.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/bin/Debug/net6.0/Example_Palindrom.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/bin/Debug/net6.0/Example_Palindrom.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/refint/Example_Palindrom.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/Example_Palindrom.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_26_02/Example_Palindrom/obj/Debug/net6.0/ref/Example_Palindrom.dll
